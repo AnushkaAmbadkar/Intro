@@ -81,9 +81,12 @@
 
 
 ## 🏆 LeetCode Stats
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Anushka Ambadkar?theme=dark&font=Nunito&ext=heatmap&cache=1" /></p>
 
+<div align="center">
+  <a href="https://leetcode.com/u/eL0W9pUAB6/">
+    <img src="https://leetcard.jacoblin.cool/eL0W9pUAB6?theme=unicorn&font=Poppins&ext=heatmap&border_radius=12" />
+  </a>
+</div>
 ---
 
 
