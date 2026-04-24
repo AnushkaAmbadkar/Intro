@@ -1,11 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF6B6B&height=180&section=header&text=Aman%20Jaiswal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=51&descAlign=50"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Machine+Learning+Explorer;Competitive+Programmer;Always+Building+Something+New;Open+to+Collaboration!" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF6B6B&height=180&section=header&text=Anushka%20Ambadkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=51&descAlign=50"/>
+
 <br/>
 </div>
 
 ---
-
 ## 🧠 About Me
 ✨ Passionate about Computer Science and always curious to explore new technologies  
 🔍 Interested in **Machine Learning, DBMS & Full Stack Development**  
