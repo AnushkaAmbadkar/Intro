@@ -80,11 +80,11 @@
 ---
 
 
-## 🏆 LeetCode Stats
+## 🏆 LeetCode Stats - Anushka Ambadkar
 
 <div align="center">
-  <a href="https://leetcode.com/u/YOUR_NEW_USERNAME/">
-    <img src="https://leetcard.jacoblin.cool/Anushka_Ambadkar?theme=unicorn&font=Poppins&ext=heatmap&border_radius=12" />
+  <a href="https://leetcode.com/u/eL0W9pUAB6/">
+    <img src="https://leetcard.jacoblin.cool/eL0W9pUAB6?theme=unicorn&font=Poppins&ext=heatmap&border_radius=12&hide=username" />
   </a>
 </div>
 ---
