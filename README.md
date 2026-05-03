@@ -89,14 +89,18 @@
 ---
 
 
-## 🍜 CodeChef Stats
+## 🍜 CodeChef Stats - Anushka Ambadkar
 
 <div align="center">
-  <a href="https://www.codechef.com/users/cmit_25_ty_254">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cmit_25_ty_254&theme=tokyonight" />
-  </a>
-</div>
 
+<b>Username:</b> cmit_25_ty_254 <br>
+<b>Platform:</b> CodeChef <br><br>
+
+<a href="https://www.codechef.com/users/cmit_25_ty_254">
+  <img src="https://img.shields.io/badge/View%20Profile-CodeChef-brown?style=for-the-badge&logo=codechef" />
+</a>
+
+</div>
 
 ---
 
